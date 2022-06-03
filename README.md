@@ -2,4 +2,4 @@
 A website for a Fitness Club
 
 
-<img src="fitness/screenShots/main.png">
+<img src="fitness/screenShots/main.PNG">
