@@ -1,3 +1,5 @@
 # FitnessClub
 A website for a Fitness Club
-<img src="screenShots/main.png">
+
+
+<img src="fitness/screenShots/main.png">
